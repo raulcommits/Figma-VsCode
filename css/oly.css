@@ -1,0 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: url("../img/olimpíada\ 2024-arena-do-v-lei-de-praia-em-paris-1720985409.jpg") no-repeat top center/cover;
+}
